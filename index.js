@@ -5,7 +5,7 @@ const respostas = [
   "Não.",
   "Sim.", 
   "Provalvemente.",
-  "Pode contar com isso.",
+  "Pode contar com issso.",
   "Não conte com isso.",
   "Minhas fontes afirmam que sim.",
   "Minhas fontes afirmam que não.",
@@ -19,7 +19,7 @@ const respostas = [
   "Pode se alegrar, a resposta é sim!",
   "É mais fácil o palmeiras ganhar o mundial...",
   "Só quando o palmeiras ganhar o mundial.",
-  "Um passarinho me montou que sim.",
+  "Um passarinho me contou que sim.",
   "Um passarinho me contou que não.",
 ]
 
