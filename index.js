@@ -5,7 +5,7 @@ const respostas = [
   "Não.",
   "Sim.", 
   "Provalvemente.",
-  "Pode contar com issso.",
+  "Pode contar com isso.",
   "Não conte com isso.",
   "Minhas fontes afirmam que sim.",
   "Minhas fontes afirmam que não.",
